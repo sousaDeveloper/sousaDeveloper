@@ -1,4 +1,4 @@
-<div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI";>
+<div align="center";>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Matheus;Eu+tenho+18+anos;Sou+apaixonado+por+programação!" alt="Typing SVG" />
@@ -13,7 +13,7 @@
     </div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
-    <div align="center">
+    <div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"">
 Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolver problemas complexos e criar sites incríveis.<br><br> 
 
 Minha determinação é alcançar o topo como um desenvolvedor Full Stack, mas sei que a chave para o sucesso é dominar o Front-End primeiro.<br> 
