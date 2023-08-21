@@ -13,7 +13,7 @@
     </div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
-    <div style="text-align: center;">
+    <div align="center">
 Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolver problemas complexos e criar sites incríveis. 
 
 Minha determinação é alcançar o topo como um desenvolvedor Full Stack, mas sei que a chave para o sucesso é dominar o Front-End primeiro.
@@ -26,6 +26,6 @@ Atualmente sou o Suporter Oficial da OneBitCode
 </div>
 
 
-<a href="#" style="margin: 0 auto;">
+<a href="#" align="center">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" margin-bottom="100px" alt="Hello, there!">
 </a>
