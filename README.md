@@ -13,7 +13,7 @@
     </div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
-    <div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"">
+    <div align="center">
 Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolver problemas complexos e criar sites incríveis.<br><br> 
 
 Minha determinação é alcançar o topo como um desenvolvedor Full Stack, mas sei que a chave para o sucesso é dominar o Front-End primeiro.<br> 
