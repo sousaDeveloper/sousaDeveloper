@@ -8,7 +8,7 @@
         <img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="sousa-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="sousa-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-        <img alt="sousa-SASSS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+        <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
         <img alt="sousa-Bootstrap" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     </div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
