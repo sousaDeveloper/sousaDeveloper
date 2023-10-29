@@ -16,7 +16,7 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
 <div>
-    <p>Sou um jovem apaixonado por desenvolvimento web e resolução de problemas, com quase 1 ano de experiência em programação e também já obtive experiência em trabalho em equipe.</p>
+    <p>Sou um jovem apaixonado por desenvolvimento web e resolução de problemas. Tenho quase 1 ano de experiência em programação e também já obtive experiência em trabalho em equipe.</p>
     <p>Estou comprometido em melhorar minhas habilidades de programação e trazer meu entusiasmo para impulsionar o sucesso da sua empresa.</p>
     <p>Meu foco é se tornar um desenvolvedor Full Stack, mas por enquanto me dedicarei o máximo em Front-End.</p>
     <p>Se está precisando de um desenvolvedor dedicado e pró-ativo, estou aqui para superar suas expectativas.</p>
