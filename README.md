@@ -1,5 +1,17 @@
 <div align="center";>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,Front-End;Web&animation=blinking&fontColor=fff&fontSize=50"/>
+    <h1 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+      Desenvolvedor
+      <span style="position: relative;
+        display: inline-block;
+        color: rgba(76, 239, 207, 0.2);
+        height: 1.25em;
+        vertical-align: bottom;
+        overflow: hidden;">
+        <span style="display: block;
+        animation: animateWords 6s infinite ease;">Web</span><span>Front-End</span>
+        <span>Web</span><span>Front-End</span>
+      </span>
+    </h1>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+quer+se+impactar+com+meus+projetos?;Dê+uma+olhada+no+meu+perfil!+:);" alt="Typing SVG" />
     </a>
@@ -22,3 +34,30 @@
     <p>Se está precisando de um desenvolvedor dedicado e pró-ativo, estou aqui para superar suas expectativas.</p>
     <p>Atualmente, trabalho na área de Suporte na OneBitCode.</p>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
+
+<style>
+
+
+@keyframes animateWords {
+    0% {
+      transform: translateY(0%);
+    }
+    
+    25% {
+      transform: translateY(-100%);
+    }
+    
+    50% {
+      transform: translateY(-200%);
+    }
+    
+    75% {
+      transform: translateY(-300%);
+    }
+    
+    100% {
+      transform: translateY(-400%);
+    }
+}
+</style>
