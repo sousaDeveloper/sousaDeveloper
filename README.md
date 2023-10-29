@@ -1,6 +1,26 @@
 <div align="center";>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
-    <h1 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+    <h1 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; @keyframes animateWords {
+    0% {
+      transform: translateY(0%);
+    }
+    
+    25% {
+      transform: translateY(-100%);
+    }
+    
+    50% {
+      transform: translateY(-200%);
+    }
+    
+    75% {
+      transform: translateY(-300%);
+    }
+    
+    100% {
+      transform: translateY(-400%);
+    }
+}">
       Desenvolvedor
       <span style="position: relative;
         display: inline-block;
@@ -40,25 +60,5 @@
 <style>
 
 
-@keyframes animateWords {
-    0% {
-      transform: translateY(0%);
-    }
-    
-    25% {
-      transform: translateY(-100%);
-    }
-    
-    50% {
-      transform: translateY(-200%);
-    }
-    
-    75% {
-      transform: translateY(-300%);
-    }
-    
-    100% {
-      transform: translateY(-400%);
-    }
-}
+
 </style>
