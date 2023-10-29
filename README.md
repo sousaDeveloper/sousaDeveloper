@@ -1,6 +1,24 @@
-<div align="center";>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
-    <h1 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; @keyframes animateWords {
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1 {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        h1 span {
+            position: relative;
+        display: inline-block;
+        color: rgba(76, 239, 207, 0.2);
+        height: 1.25em;
+        vertical-align: bottom;
+        overflow: hidden;
+        }
+        h1 span span {
+            display: block;
+        animation: animateWords 6s infinite ease;
+        }
+
+         @keyframes animateWords {
     0% {
       transform: translateY(0%);
     }
@@ -20,16 +38,16 @@
     100% {
       transform: translateY(-400%);
     }
-}">
+}
+    
+      </style>
+
+<div align="center";>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
+    <h1>
       Desenvolvedor
-      <span style="position: relative;
-        display: inline-block;
-        color: rgba(76, 239, 207, 0.2);
-        height: 1.25em;
-        vertical-align: bottom;
-        overflow: hidden;">
-        <span style="display: block;
-        animation: animateWords 6s infinite ease;">Web</span><span>Front-End</span>
+      <span>
+        <span>Web</span><span>Front-End</span>
         <span>Web</span><span>Front-End</span>
       </span>
     </h1>
@@ -55,10 +73,6 @@
     <p>Se está precisando de um desenvolvedor dedicado e pró-ativo, estou aqui para superar suas expectativas.</p>
     <p>Atualmente, trabalho na área de Suporte na OneBitCode.</p>
 </div>
+</svg>
 
 
-<style>
-
-
-
-</style>
