@@ -16,13 +16,9 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
     <div>
-Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolver problemas complexos e criar sites incríveis.<br><br> 
-
-Minha determinação é alcançar o topo como um desenvolvedor Full Stack, mas sei que a chave para o sucesso é dominar o Front-End primeiro.<br> 
-
-A tecnologia sempre me fascinou desde criança, mas quando descobri a programação, mergulhei de cabeça e minha paixão se tornou uma obsessão. <br> 
-
-Estou pronto para mergulhar fundo no mundo do desenvolvimento, abraçar desafios e levar a experiência do usuário a novos patamares através de soluções criativas e elegantes.<br> 
-
-<strong>Atualmente trabalho na área de Suporte dentro da OneBitCode.</strong><br><br>
+Sou um jovem apaixonado por desenvolvimento web e resolução de problemas, com quase 1 ano de experiência em programação e também já obtive experiência em trabalho em equipe. <br><br>
+Estou comprometido em melhorar minhas habilidades de programação e trazer meu entusiasmo para impulsionar o sucesso da sua empresa. <br><br>
+Sou pró-ativo e busco ser um desenvolvedor Full Stack. Tenho uma paixão duradoura por tecnologia e estou sempre atualizado com as tendências do setor. <br><br>
+Se você precisa de um desenvolvedor dedicado e pró-ativo, estou aqui para superar suas expectativas. <br><br>
+Atualmente, trabalho na área de Suporte na OneBitCode.
 </div>
