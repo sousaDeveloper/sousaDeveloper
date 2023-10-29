@@ -1,4 +1,5 @@
 <div align="center";>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
     <h1 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
       Desenvolvedor
       <span style="position: relative;
@@ -34,7 +35,7 @@
     <p>Se está precisando de um desenvolvedor dedicado e pró-ativo, estou aqui para superar suas expectativas.</p>
     <p>Atualmente, trabalho na área de Suporte na OneBitCode.</p>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20&animation=blinking&fontColor=fff&fontSize=50"/>
+
 
 <style>
 
