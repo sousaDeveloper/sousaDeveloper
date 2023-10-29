@@ -6,7 +6,7 @@
     <div align="center" style="display: inline_block"><br>
     <h3>Principais tecnologias que uso:</h3>
         <img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="sousa-Css" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+        <img alt="sousa-Css" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
         <img alt="sousa-JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
         <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
         <img alt="sousa-Git" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
