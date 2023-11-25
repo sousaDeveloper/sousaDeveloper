@@ -10,8 +10,8 @@
         <img alt="sousa-JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
         <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
         <img alt="sousa-Git" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+        <img alt="sousa-React" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
         <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-        <img alt="sousa-Bootstrap" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     </div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
