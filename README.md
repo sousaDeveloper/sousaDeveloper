@@ -18,7 +18,13 @@
 </div> <br><br>
 <div>
     <p>
-        Olá! Sou um jovem apaixonado por tecnologia, cheio de entusiasmo e pronto para fazer a diferença na sua empresa! Com apenas 18 anos, já liderei uma equipe de vendas, o que me deu habilidades incríveis de liderança e trabalho em equipe. Estou         mergulhando de cabeça no mundo da programação há mais de um ano, sempre buscando aprender e crescer. Desde pequeno, a tecnologia me fascina, e agora estou aqui, pronto para trazer todo esse entusiasmo e  para sua empresa. Vamos trabalhar          juntos para alcançar grandes conquistas!
+        Olá! Sou um jovem apaixonado por tecnologia, cheio de entusiasmo e pronto para fazer a diferença na sua empresa! Com apenas 18 anos, já liderei uma equipe de vendas, o que me deu habilidades incríveis de liderança e trabalho em equipe. Estou         mergulhando de cabeça no mundo da programação há mais de um ano, sempre buscando aprender e crescer. 
+
+Desde pequeno, a tecnologia me fascina, e agora estou aqui, pronto para trazer todo esse entusiasmo e  para sua empresa. Vamos trabalhar          juntos para alcançar grandes conquistas!
+    </p>
+
+<p>
+Desde pequeno, a tecnologia me fascina, e agora estou aqui, pronto para trazer todo esse entusiasmo e  para sua empresa. Vamos trabalhar          juntos para alcançar grandes conquistas!
     </p>
     
 </div>
