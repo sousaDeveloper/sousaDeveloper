@@ -17,6 +17,8 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
 <div>
-    <p>Sou um programador Front-End apaixonado, tenho um pouco mais de 1 ano de experiência em programação e também já obtive experiência em trabalho em equipe. Estou comprometido em melhorar minhas habilidades de programação e trazer meu entusiasmo para impulsionar o sucesso da sua empresa.</p>
-    <p>Se está precisando de um desenvolvedor disposto à evoluir, estou aqui para superar suas expectativas. Meu maior foco é se tornar um desenvolvedor Full Stack.</p>
+    <p>
+        Olá! Sou um jovem apaixonado por tecnologia, cheio de entusiasmo e pronto para fazer a diferença na sua empresa! Com apenas 18 anos, já liderei uma equipe de vendas, o que me deu habilidades incríveis de liderança e trabalho em equipe. Estou         mergulhando de cabeça no mundo da programação há mais de um ano, sempre buscando aprender e crescer. Desde pequeno, a tecnologia me fascina, e agora estou aqui, pronto para trazer todo esse entusiasmo e  para sua empresa. Vamos trabalhar          juntos para alcançar grandes conquistas!
+    </p>
+    
 </div>
