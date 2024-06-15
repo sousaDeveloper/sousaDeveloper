@@ -15,6 +15,9 @@
     <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     <img alt="sousa-TailwindCSS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+    <img alt="sousa-NodeJS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img alt="sousa-PostgreSQL" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img alt="sousa-Prisma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
     <img alt="sousa-Redux" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   </div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
