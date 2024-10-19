@@ -6,14 +6,15 @@
   <div align="center" style="display: inline_block">
     <br>
   <h3>Tecnologias que uso:</h3>
-    <img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <div>
+<img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="sousa-Css" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt="sousa-JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img alt="sousa-Git" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img alt="sousa-React" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    <img alt="sousa-NodeJS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img alt="sousa-NodeJS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></div>
     <img alt="sousa-PostgreSQL" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img alt="sousa-Prisma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
     <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
