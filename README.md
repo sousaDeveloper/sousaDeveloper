@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Roboto, sans-serif;">  
+<div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+quer+se+impactar+com+meus+projetos?;Dê+uma+olhada+no+meu+perfil!+:);" alt="Typing SVG" />
