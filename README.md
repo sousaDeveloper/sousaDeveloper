@@ -20,6 +20,7 @@
     <img alt="sousa-TailwindCSS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
     <img alt="sousa-Redux" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
     <img alt="sousa-Docker" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img alt="sousa-Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   </div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
