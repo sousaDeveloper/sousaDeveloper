@@ -6,7 +6,7 @@
   <div align="center" style="display: inline_block">
     <br>
   <h3>Tecnologias que uso:</h3>
-    <div>
+    <div style="display: flex; gap: 10px;">
 <img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="sousa-Css" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt="sousa-JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
