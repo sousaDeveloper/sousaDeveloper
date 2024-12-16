@@ -46,7 +46,7 @@
   <p>
 Resumo da minha experiência profissional:
 
-    Em janeiro de 2023, comecei meus estudos em programação de forma autodidata, e cada vez que busco mais conhecimentos, minha paixão nessa área cresce.
+Em janeiro de 2023, comecei meus estudos em programação de forma autodidata, e cada vez que busco mais conhecimentos, minha paixão nessa área cresce.
 
 Meu foco é na criação de websites modernos, com soluções atraentes e focadas no usuário. Contate-me e vamos melhorar a presença digital do seu negócio.
 
@@ -54,6 +54,6 @@ No momento, sou Desenvolvedor Full Stack e UI/UX Designer freelancer na RBS Tech
 
 Tecnologias que tenho um conhecimento sólido: 
 
-HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma
+    HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma
   </p>
 </div>
