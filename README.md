@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Full%20Stack&animation=blinking&fontColor=fff&fontSize=50"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+quer+se+impactar+com+meus+projetos?;Dê+uma+olhada+no+meu+perfil!+:);" alt="Typing SVG" />
   </a>
@@ -41,9 +41,18 @@
 </div> <br><br>
 <div>
   <p>
-    Olá! Sou um jovem apaixonado pelo desenvolvimento web, cheio de entusiasmo e pronto para fazer a diferença na sua empresa! Com apenas 19 anos de idade, já liderei uma equipe de vendas, o que me deu habilidades incríveis de liderança e trabalho em equipe. Estou mergulhando de cabeça no mundo da programação há mais de um ano, sempre buscando aprender e crescer. 
+    Olá! Sou apaixonado por tecnologia e estou animado para trazer meu entusiasmo e habilidades para seu negócio digital. Possuo sólida experiência como Desenvolvedor Full Stack (React/Node/SQL) e UI/UX Designer (Figma). 
   </p>
   <p>
-    Desde pequeno, a tecnologia me fascina, e agora estou aqui, pronto para trazer todo esse entusiasmo para sua empresa. Vamos trabalhar juntos para alcançar grandes conquistas!
+    Em janeiro de 2023, comecei meus estudos em programação de forma autodidata, e cada vez que busco mais conhecimentos, minha paixão nessa área cresce.
+
+Meu foco é na criação de websites modernos, com soluções atraentes e focadas no usuário. Contate-me e vamos melhorar a presença digital do seu negócio.
+
+No momento, sou Desenvolvedor Full Stack e UI/UX Designer freelancer na RBS Technology. E já fui Suporte e Líder de Comunidade em uma das maiores empresas de tecnologia do Brasil: na OneBitCode.
+
+<span style="font-weight: 600; display: flex; flex-direction: column;">
+Tecnologias que tenho um conhecimento sólido: 
+
+HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma</span>
   </p>
 </div>
