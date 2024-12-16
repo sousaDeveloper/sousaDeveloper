@@ -50,9 +50,10 @@ Meu foco é na criação de websites modernos, com soluções atraentes e focada
 
 No momento, sou Desenvolvedor Full Stack e UI/UX Designer freelancer na RBS Technology. E já fui Suporte e Líder de Comunidade em uma das maiores empresas de tecnologia do Brasil: na OneBitCode.
 
-<span style="font-weight: 600; display: flex; flex-direction: column;">
+<span style="font-weight: bold; display: flex; flex-direction: column;">
 Tecnologias que tenho um conhecimento sólido: 
 
-HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma</span>
+HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma
+</span>
   </p>
 </div>
