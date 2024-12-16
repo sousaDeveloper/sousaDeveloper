@@ -44,16 +44,16 @@
     Olá! Sou apaixonado por tecnologia e estou animado para trazer meu entusiasmo e habilidades para seu negócio digital. Possuo sólida experiência como Desenvolvedor Full Stack (React/Node/SQL) e UI/UX Designer (Figma). 
   </p>
   <p>
+Resumo da minha experiência profissional:
+
     Em janeiro de 2023, comecei meus estudos em programação de forma autodidata, e cada vez que busco mais conhecimentos, minha paixão nessa área cresce.
 
 Meu foco é na criação de websites modernos, com soluções atraentes e focadas no usuário. Contate-me e vamos melhorar a presença digital do seu negócio.
 
 No momento, sou Desenvolvedor Full Stack e UI/UX Designer freelancer na RBS Technology. E já fui Suporte e Líder de Comunidade em uma das maiores empresas de tecnologia do Brasil: na OneBitCode.
 
-<span style="font-weight: bold; display: flex; flex-direction: column;">
 Tecnologias que tenho um conhecimento sólido: 
 
 HTML | CSS | JavaScript | TypeScript | Git | React | Next.js | PostgreSQL | Prisma | Node.js | Express | Vite | Tailwind CSS | Sass | Docker | Redux | Firebase | Bootstrap | Figma
-</span>
   </p>
 </div>
