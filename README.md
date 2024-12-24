@@ -48,8 +48,6 @@ Resumo da minha experiência profissional:
 
 Em janeiro de 2023, comecei meus estudos em programação de forma autodidata, e cada vez que busco mais conhecimentos, minha paixão nessa área cresce.
 
-Meu foco é na criação de websites modernos, com soluções atraentes e focadas no usuário. Contate-me e vamos melhorar a presença digital do seu negócio.
-
 No momento, sou Desenvolvedor Full Stack e UI/UX Designer freelancer na RBS Technology. E já fui Suporte e Líder de Comunidade em uma das maiores empresas de tecnologia do Brasil: na OneBitCode.
 
 Tecnologias que tenho um conhecimento sólido: 
