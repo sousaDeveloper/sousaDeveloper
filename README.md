@@ -6,7 +6,6 @@
   <div align="center" style="display: inline_block">
     <br>
   <h3>Minhas principais stacks:</h3>
-
     <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 &nbsp;
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
