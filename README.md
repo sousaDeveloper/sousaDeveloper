@@ -6,13 +6,13 @@
   <div align="center" style="display: inline_block">
     <br>
   <h3>Minhas principais stacks:</h3>
-    <div style="display: flex; gap: 10px;">
+
     <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 &nbsp;
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 &nbsp;
     <img alt="sousa-NodeJS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-&nbsp;></div>
+&nbsp;>
     <img alt="sousa-PostgreSQL" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 &nbsp;
     <img alt="sousa-Prisma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
