@@ -9,8 +9,6 @@
     <div style="display: flex; gap: 10px;">
     <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 &nbsp;
-    <img alt="sousa-Git" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-&nbsp;
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 &nbsp;
     <img alt="sousa-NodeJS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -19,11 +17,8 @@
 &nbsp;
     <img alt="sousa-Prisma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
 &nbsp;
-    <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-&nbsp;
     <img alt="sousa-TailwindCSS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 &nbsp;
-    <img alt="sousa-Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   </div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> <br><br>
