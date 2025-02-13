@@ -5,19 +5,11 @@
   </a>
   <div align="center" style="display: inline_block">
     <br>
-  <h3>Tecnologias que uso:</h3>
+  <h3>Minhas principais stacks:</h3>
     <div style="display: flex; gap: 10px;">
-<img alt="sousa-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-&nbsp;
-    <img alt="sousa-Css" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-&nbsp;
-    <img alt="sousa-JavaScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-&nbsp;
     <img alt="sousa-TypeScript" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 &nbsp;
     <img alt="sousa-Git" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-&nbsp;
-    <img alt="sousa-React" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 &nbsp;
     <img alt="sousa-NextJs" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 &nbsp;
@@ -30,10 +22,6 @@
     <img alt="sousa-SASS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 &nbsp;
     <img alt="sousa-TailwindCSS" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-&nbsp;
-    <img alt="sousa-Redux" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-&nbsp;
-    <img alt="sousa-Docker" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 &nbsp;
     <img alt="sousa-Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   </div>
